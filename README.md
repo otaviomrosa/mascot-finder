@@ -1,4 +1,4 @@
-# Computer Vision: Mascot Finder
+# Mascot Finder
 
 ## Description
 This project finds the location, scale, and rotation of a university mascot ("Rocky") in various images. It uses classical computer vision techniques to match keypoints between a reference image and a test image, implementing a RANSAC algorithm to find a robust affine transformation.
